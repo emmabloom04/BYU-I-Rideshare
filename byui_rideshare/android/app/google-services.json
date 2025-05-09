@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687715736202",
+    "project_id": "byu-idaho-rideshare",
+    "storage_bucket": "byu-idaho-rideshare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687715736202:android:b9161cf5fcdbeb5db3eb73",
+        "android_client_info": {
+          "package_name": "com.example.byui_rideshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687715736202-ju4eogun84105ijvru3dav5ssj5k1pq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXgOwFerghhWhC7Aq45L1ZNiBTzitnIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687715736202-ju4eogun84105ijvru3dav5ssj5k1pq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687715736202-q6li9r8cvj06fkthjtpt55vo68gb7p9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.byuiRideshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
