@@ -28,7 +28,11 @@ android {
     }
     // ... build types ...
 }
-
+repositories {
+    google()        // Google's Maven repository
+    mavenCentral()  // Maven Central repository
+    // If you had any custom repositories or local flatDir repositories, they would go here
+}
 flutter {
     source = "../.."
 }
